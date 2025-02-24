@@ -2,6 +2,13 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/log_generator?color=green&label=pip%20downloads)
 ![PyPI - License](https://img.shields.io/pypi/l/log_generator)
 
+<h2> 
+    <p>
+      <a href="README.md"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-blue.svg" alt="English"></a>
+      <a href="README.uk.md"><img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%A6-Українська-yellow.svg" alt="Українська"></a>
+    </p>
+</h2>
+
 # Log Generator
 
 **Log Generator** is a single-page graphical application in Python for generating random logs using the  
